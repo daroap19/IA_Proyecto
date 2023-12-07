@@ -15,7 +15,7 @@ Identificación con foto: Debido al hecho de que se tomó más de una foto para 
 # Modelos: 
 Regresion, DNN, PCA, KMeans, T-sne, SuperVectorClassifier, DecisionTreeClassifier, RandomForestClassifier
 # Enlace codigo:
-
+https://colab.research.google.com/drive/1ACG29ZIH-iHSNb1KGtRQP3uz5UQAqrLz?usp=sharing
 # Enlace video:
 
 # Enlace Repositorio: 
