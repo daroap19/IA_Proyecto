@@ -6,7 +6,7 @@ Daniel Alejandro Sánchez Rodríguez
 Observar que lente de contacto se adecua mejor según la enfermedad que tenga.
 # Dataset: 
 https://www.kaggle.com/datasets/emrahaydemr/photos-of-eyes?resource=download
-El conjunto de datos consiste en imágenes de retinopatía normal, retinopatía diabética, cataratas y glaucoma, donde cada clase tiene aproximadamente 1000 imágenes. Estas imágenes se recogen de varios sorces como IDRiD, reconocimiento Oculur, HRF, etc.
+* El conjunto de datos consiste en imágenes de retinopatía normal, retinopatía diabética, cataratas y glaucoma, donde cada clase tiene aproximadamente 1000 imágenes. Estas imágenes se recogen de varios sorces como IDRiD, reconocimiento Oculur, HRF, etc.
 # Modelos: 
 Regresion, DNN, PCA, KMeans, T-sne, SuperVectorClassifier, DecisionTreeClassifier, RandomForestClassifier
 # Enlace codigo:
