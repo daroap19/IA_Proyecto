@@ -1,7 +1,7 @@
 # Diseño de lentes de contacto
 ![banner_IA](https://github.com/daroap19/IA_Proyecto/assets/131118045/8ec68b8d-2560-4896-b09c-69ef6462d3b6)
 # Autores: 
-Daniel Alejandro Sánchez Rodríguez
+Daniel Alejandro Sánchez Rodríguez, Daniel Camilo Barrera Perez
 # Objetivo: 
 Observar que lente de contacto se adecua mejor según la enfermedad que tenga.
 # Dataset: 
