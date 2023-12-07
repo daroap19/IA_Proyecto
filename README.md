@@ -14,4 +14,4 @@ Regresion, DNN, PCA, KMeans, T-sne, SuperVectorClassifier, DecisionTreeClassifie
 # Enlace video:
 
 # Enlace Repositorio: 
-
+https://github.com/daroap19/IA_Proyecto.git 
