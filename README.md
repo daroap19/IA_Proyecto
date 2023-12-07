@@ -17,6 +17,6 @@ Regresion, DNN, PCA, KMeans, T-sne, SuperVectorClassifier, DecisionTreeClassifie
 # Enlace codigo:
 https://colab.research.google.com/drive/1ACG29ZIH-iHSNb1KGtRQP3uz5UQAqrLz?usp=sharing
 # Enlace video:
-
+https://youtu.be/VDyUA1muj7s
 # Enlace Repositorio: 
 https://github.com/daroap19/IA_Proyecto.git 
